@@ -18,13 +18,13 @@
 
 - 🌱 I’m currently studying at **Brindavan Collage of Engineering, Bangalore City**
 
-- 👨‍💻 All of my projects are available at [https://skgupta.vercel.app](https://skgupta.vercel.app)
+- 👨‍💻 All of my projects are available at [https://bondgreninja.vercel.app](https://bondgreninja.vercel.app)
 
 - 💬 Ask me about **mern-stack.**
 
-- 📫 How to reach me **sunil@demonking.pp.ua**
+- 📫 How to reach me **bondgreninja713@gmail.com**
 
-- 📄 Know about my experiences [https://skgupta.vercel.app/Resume.pdf](https://skgupta.vercel.app/Resume.pdf)
+- 📄 Know about my experiences [https://bondgreninja.vercel.app/Resume.pdf](https://bondgreninja.vercel.app/Resume.pdf)
 
 - ⚡ Fun fact **I think I am funny**
 
